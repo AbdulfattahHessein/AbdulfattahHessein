@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulfattahhessein&label=Profile%20views&color=0e75b6&style=flat" alt="abdulfattahhessein" /> </p>
 
-- 🔭 I’m currently working on **Awfarlak**
+[//]: # (- 🔭 I’m currently working on **Awfarlak**)
 
 - 🌱 I’m currently learning **Clean Architecture, Angular**
 
