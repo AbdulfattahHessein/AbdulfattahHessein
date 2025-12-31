@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulfattah Hessein</h1>
 <h3 align="center">A passionate fullstach developer (.Net core & Angular) from Egypt</h3>
 
-<img width = "350px" align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulfattahhessein&label=Profile%20views&color=0e75b6&style=flat" alt="abdulfattahhessein" /> </p>
-
-[//]: # (- 🔭 I’m currently working on **Awfarlak**)
-
-- 🌱 I’m currently learning **Clean Architecture, Angular**
-
-- 👨‍💻 All of my projects are available at [https://abdulfattahhessein.github.io/portofolio/](https://abdulfattahhessein.github.io/portofolio/)
-
 - 💬 Ask me about **C#, Typescript, .Net Core, Angular, Clean Code**
 
 - 📫 How to reach me **abdulfattah.hessein@gmail.com**
